@@ -15,3 +15,16 @@ int main()
     while (ss >> buf)
         tokens.push_back(buf);
 }
+
+
+/* Something Complementary
+
+
+
+string s="12345";
+int x=0;
+stringstream convert(s);//object from the class stringstream.
+convert>>x; //the object has the value 12345 and stream it to the integer x.
+//now the variable x holds the value 12345.
+
+*/
