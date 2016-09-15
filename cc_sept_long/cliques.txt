@@ -1,0 +1,21 @@
+1. Clique (2): 1 2 
+2. Clique (2): 1 2 
+3. Clique (3): 1 2 3 
+4. Clique (2): 1 2 
+5. Clique (2): 1 2 
+6. Clique (3): 4 5 6 
+7. Clique (2): 1 2 
+8. Clique (2): 1 2 
+9. Clique (2): 1 2 
+10. Clique (2): 1 2 
+11. Clique (3): 1 2 3 
+12. Clique (2): 1 2 
+13. Clique (2): 1 2 
+14. Clique (2): 1 2 
+15. Clique (3): 1 2 3 
+16. Clique (2): 1 2 
+17. Clique (2): 1 2 
+18. Clique (3): 1 2 3 
+19. Clique (2): 1 2 
+20. Clique (3): 1 2 3 
+21. Clique (3): 1 2 3 
