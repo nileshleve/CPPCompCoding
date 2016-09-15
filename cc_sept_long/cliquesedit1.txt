@@ -1,6 +1,0 @@
-1. Clique (2): 1 2 
-2. Clique (2): 1 2 
-3. Clique (2): 1 2 
-4. Clique (2): 1 2 
-5. Clique (2): 1 2 
-6. Clique (2): 1 2 
